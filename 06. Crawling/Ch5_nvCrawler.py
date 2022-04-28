@@ -5,8 +5,9 @@ import datetime
 import time
 import json
 
-client_id = '0LHQM4VX_MQM6JfkXofa'
-client_secret = 'OcPgqpswCg'
+# Naver Developer에서 발급 받은 client_id, client_secret 
+client_id = ''  # Client ID
+client_secret = ''  # Client Secret
 
 
 #[CODE 1]
